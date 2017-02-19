@@ -1,0 +1,63 @@
+.profile_pic {
+    width: 35%;
+    float: left;
+}
+.img-circle.profile_img {
+    width: 70%;
+    background: #fff;
+    margin-left: 15%;
+    z-index: 1000;
+    position: inherit;
+    margin-top: 20px;
+    border: 1px solid rgba(52,73,94,0.44);
+    padding: 4px;
+}
+.profile_info {
+    padding: 16px 10px 10px;
+    width: 65%;
+    float: left;
+}
+.profile_info span {
+    font-size: 13px;
+    line-height: 30px;
+    color: #BAB8B8;
+}
+.profile_info h2 {
+    font-size: 14px;
+    color: #ECF0F1;
+    margin: 0;
+    font-weight: 300;
+}
+.sidebar-profile{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    box-shadow: rgba(0,0,0,0.25) 0px 2px 0px 0px, inset rgba(255,255,255,0.16) 0px 2px 0;
+}
+/*================ sidebar footer ================*/
+.sidebar-footer {
+    bottom: 0px;
+    clear: both;
+    display: block;
+    padding: 0px 0 0 0;
+    position: fixed;
+    width: 195px;
+    background: #2A3F54;
+}
+.sidebar-footer a {
+    padding: 7px 0 3px;
+    text-align: center;
+    width: 25%;
+    font-size: 17px;
+    display: block;
+    float: left;
+    background: #172D44;
+}
+.sidebar-footer a {
+    color: #5A738E;
+    text-decoration: none;
+}
+/*================ end sidebar footer ================*/
+/*================ fixed footer ================*/
+
+/*================ end fixed footer ================*/
